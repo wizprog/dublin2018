@@ -7,7 +7,6 @@ public class Server {
 		System.out.println("Prvi primer");
 		int abc = 0;
 		abc++;
-		System.out.println("Uspeo saaaaaaaam");
 		System.out.println(abc);
 		try {
 			Thread.sleep(500);
